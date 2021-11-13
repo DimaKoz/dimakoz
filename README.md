@@ -26,7 +26,7 @@ Hi there 👋
 
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dimakoz&layout=compact&count_private=true)
 
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=dimakoz&count_private=true&show_icons=true)
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=dimakoz&count_private=true&show_icons=true&theme=tokyonight)
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=dimakoz&hide_border=true)
 
