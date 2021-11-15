@@ -38,6 +38,12 @@ Hi there 👋
 <a href="https://www.linkedin.com/in/dmitry-kozhevin-7716437a/?locale=en_US"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
 
+### StackOverflow
+<p align="left">
+<a href="https://stackoverflow.com/users/3166697/dima-kozhevin"><img src="https://img.shields.io/badge/Stack%20Overflow-3.2k-FE7A16?logo=stack-overflow&logoColor=orange&style=flat"/></a>
+</p>&nbsp;
+
+
 #### _References: [Snake animation](https://github.com/Platane/snk) ➕ [Statistics](https://github.com/anuraghazra/github-readme-stats) ➕ [Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)_
 
 ![Profile Views](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=dimakoz&repo=dimakoz&countColorcountColor)
