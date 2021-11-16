@@ -1,6 +1,6 @@
 Hi there 👋
 
-![](github-user-contribution.svg)
+![](https://github.com/DimaKoz/dimakoz/blob/output/github-contribution-grid-snake.svg)
 
 
 ### Languages & Tools 🛠
