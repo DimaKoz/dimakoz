@@ -40,7 +40,7 @@ Hi there 👋
 
 ### StackOverflow
 <p align="left">
-<a href="https://stackoverflow.com/users/3166697/dima-kozhevin"><img src="https://img.shields.io/badge/Stack%20Overflow-3.2k-FE7A16?logo=stack-overflow&logoColor=orange&style=flat"/></a>
+<a href="https://stackoverflow.com/users/3166697/dima-kozhevin"><img src="https://img.shields.io/badge/Stack%20Overflow-3.3k-FE7A16?logo=stack-overflow&logoColor=orange&style=flat"/></a>
 </p>&nbsp;
 
 
