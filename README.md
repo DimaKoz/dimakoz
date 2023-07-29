@@ -46,7 +46,8 @@ Hi there 👋
 
 #### _References: [Snake animation](https://github.com/Platane/snk) ➕ [Statistics](https://github.com/anuraghazra/github-readme-stats) ➕ [Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)_
 
-![Profile Views](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=dimakoz&repo=dimakoz&countColorcountColor)
+
+![Profile Views](https://komarev.com/ghpvc/?username=dimakoz&color=lightgrey)
 
 <!--
 **DimaKoz/dimakoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
