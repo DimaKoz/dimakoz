@@ -30,7 +30,9 @@ Hi there 👋
 
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=dimakoz&count_private=true&show_icons=true&theme=tokyonight)
 
-![Github Contributions](https://streak-stats.demolab.com/?user=dimakoz&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dimakoz)](https://git.io/streak-stats)
+
+
 
 ### Let's connect ? 🤝
 
