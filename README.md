@@ -30,7 +30,7 @@ Hi there 👋
 
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=dimakoz&count_private=true&show_icons=true&theme=tokyonight)
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=dimakoz&hide_border=true)
+![Github Contributions](https://streak-stats.demolab.com/?user=dimakoz&hide_border=true)
 
 ### Let's connect ? 🤝
 
@@ -44,7 +44,7 @@ Hi there 👋
 </p>&nbsp;
 
 
-#### _References: [Snake animation](https://github.com/Platane/snk) ➕ [Statistics](https://github.com/anuraghazra/github-readme-stats) ➕ [Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)_
+#### _References: [Snake animation](https://github.com/Platane/snk) ➕ [Statistics](https://github.com/anuraghazra/github-readme-stats) ➕ [Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)_ ➕ [Github Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dimakoz&color=lightgrey)
