@@ -18,11 +18,6 @@ on:
     
 # The sequence of runs in this workflow:
 jobs:
-  generate:
-    permissions: 
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
     
   # This workflow contains a single job called "build"
   build:
